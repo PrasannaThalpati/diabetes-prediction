@@ -1,5 +1,5 @@
 
-## Diabetes Prediction
+# Diabetes Prediction
 
 ML model which detects your Diabetes with good accuracy.
 
