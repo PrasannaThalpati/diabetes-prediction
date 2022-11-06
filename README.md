@@ -29,7 +29,7 @@ Streamlit
 
 
 ## 🛠 Skills
-Machine Learning, Data Science, Python, Flask, HTML, CSS...
+Machine Learning, Data Science, Python, Streamlit...
 
 ## 🔗 Connect Me
 [![Instagram](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
